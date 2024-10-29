@@ -6,7 +6,6 @@ This React application showcases various cat breeds, providing users with detail
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
